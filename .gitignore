@@ -19,3 +19,6 @@ Packages
 # Carthage
 Carthage
 *.framework.zip
+
+# Bundler
+vendor/
